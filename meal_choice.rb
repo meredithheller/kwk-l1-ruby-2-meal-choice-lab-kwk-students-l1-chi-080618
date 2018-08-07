@@ -10,11 +10,11 @@ def breakfast(first_choice = "Frosted Flake")
 end
 
 def lunch(second_choice = "grilled cheese")
-  puts "Lunch is the best time for #{second_choice}!"
+  puts "Lunch is the best time for #{second_choice.downcase}!"
 end
 
 def dinner(third_choice = "salmon")
-  puts "Dinner is the best time for #{third_choice}!"
+  puts "Dinner is the best time for #{third_choice.downcase}!"
 end
 
 breakfast("pancakes")
