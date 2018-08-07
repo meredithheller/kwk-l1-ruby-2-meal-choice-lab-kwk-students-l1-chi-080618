@@ -21,5 +21,5 @@ puts breakfast("pancakes")
 puts breakfast
 puts lunch("peanut butter")
 puts lunch
-dinner("broccoli")
-dinner
+puts dinner("broccoli")
+puts dinner
