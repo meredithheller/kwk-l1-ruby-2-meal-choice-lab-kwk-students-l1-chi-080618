@@ -17,9 +17,9 @@ def dinner(third_choice = "salmon")
   puts "Dinner is the best time for #{third_choice}!"
 end
 
-breakfast("oatmeal")
-lunch("caesar salad")
-dinner("chicken")
+breakfast("pancakes")
 breakfast
+lunch("peanut butter")
 lunch
+dinner("broccoli")
 dinner
